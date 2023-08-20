@@ -25,4 +25,6 @@
 [【下载软件】点击此处](https://fileshare.mojy.xyz/MoeTutorial-FileStorage/%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E5%8A%A0%E9%80%9F/%E9%AB%98%E9%80%9F%E4%B8%8B%E8%BD%BD%E5%99%A8-%E8%AF%B7%E5%85%B3%E9%97%AD%E6%9D%80%E6%AF%92%E8%BD%AF%E4%BB%B6%E4%B8%8B%E8%BD%BD%E5%90%8E%E7%82%B9%E5%87%BB%E5%AE%89%E8%A3%85-%E7%9C%8B%E6%95%99%E7%A8%8B%E7%94%A8.exe)
 
 【<font color="red">后续软件使用:</font><font color="blue">遇异常</font><font color="red">或</font><font color="blue">下载很慢</font><font color="red">，请在最上方下载更新包更新后使用</font>】
-
+# <font color="blue">常见下载报错和解决办法：</font>
+   >> 下载若遇到异常，一般重启软件或对异常资料后面开始/暂停点几次可解决；
+>   > 
