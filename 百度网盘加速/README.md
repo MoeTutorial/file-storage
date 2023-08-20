@@ -26,5 +26,6 @@
 
 【<font color="red">后续软件使用:</font><font color="blue">遇异常</font><font color="red">或</font><font color="blue">下载很慢</font><font color="red">，请在最上方下载更新包更新后使用</font>】
 # <font color="blue">常见下载报错和解决办法：</font>
-   >> 下载若遇到异常，一般重启软件或对异常资料后面开始/暂停点几次可解决；
->   > 
+>>下载若遇到异常，一般重启软件或对异常资料后面开始/暂停点几次可解决；
+>>下载保存时<font color="red">勿选外接硬盘或U盘</font>，只能选电脑硬盘保存，否则速度可能为0。
+
