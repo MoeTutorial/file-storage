@@ -19,6 +19,7 @@
    2.  <font color="red">“随意中差评”</font>或<font color="red">“退款”</font>之后，<font color="red">将自动封卡禁用/将无法使用</font>；
 #  =========视频教程+软件下载=========
 <font color="red">提示：</font>先退出电脑杀毒, 再下载软件, 否则软件打不开<font color="red"><不会关杀毒,底部有教程></font>
+
 [【视频教程, 必看！】软件使用详细步骤（若不会-必看）](https://api.mojy.xyz/player/dplayer.html?url=https://ghproxy.com/https://github.com/MoeTutorial/file-storage/raw/master/%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E5%8A%A0%E9%80%9F/assets/%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B.mp4)
 
 [【下载软件】点击此处](https://fileshare.mojy.xyz/MoeTutorial-FileStorage/%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E5%8A%A0%E9%80%9F/%E9%AB%98%E9%80%9F%E4%B8%8B%E8%BD%BD%E5%99%A8-%E8%AF%B7%E5%85%B3%E9%97%AD%E6%9D%80%E6%AF%92%E8%BD%AF%E4%BB%B6%E4%B8%8B%E8%BD%BD%E5%90%8E%E7%82%B9%E5%87%BB%E5%AE%89%E8%A3%85-%E7%9C%8B%E6%95%99%E7%A8%8B%E7%94%A8.exe)
