@@ -5,7 +5,7 @@
 ![下载界面](https://ghproxy.com/https://github.com/MoeTutorial/file-storage/blob/master/%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E5%8A%A0%E9%80%9F/assets/1.png?raw=true)
 <hr>
 
-## <<免责声明-避免纠纷-用前提醒>>
+# <<免责声明-避免纠纷-用前提醒>>
 【<font color="blue">若电脑存有：</font><font color="red">: 重要隐私/单位企业敏感资料/总之重要资料电脑上或有任何顾虑</font> **勿用** 】
 
 【<font color="blue">软件非我开发，</font><font color="red">有无隐患未知, 防止可能情况, </font>可选择“<font color="blue">仅退款-其它</font>” 】
