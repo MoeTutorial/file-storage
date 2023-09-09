@@ -61,7 +61,7 @@ Taurine支持iOS/iPadOS 14.0-14.8.1，全部设备类型。
 
 4. 返回桌面，打开桌面上的uncOver软件
 
-5. 此时插上电源，点击下方Jailbreak按钮即可。(不成功可再次点击)
+5. 此时插上电源，点击下方Jailbroken按钮即可。(不成功可再次点击)
 
 ![软件主页面](Taurine/home.png)
 <hr>
@@ -78,6 +78,6 @@ Dopamine支持iOS/iPadOS 15.0-15.4.1，全部设备类型。
 
 4. 返回桌面，打开桌面上的uncOver软件
 
-5. 此时插上电源，点击下方Jailbroken按钮即可。(不成功可再次点击)
+5. 此时插上电源，点击下方Jailbreak按钮即可。(不成功可再次点击)
 
 ![软件主页面](Dopamine/home.png)
