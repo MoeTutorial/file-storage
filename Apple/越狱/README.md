@@ -1,3 +1,4 @@
+请根据自己的系统版本，找到合适的软件下载越狱。
 # 使用uncOver进行越狱(推荐)
 uncOver支持iOS/iPadOS 11-14.8版本，全部设备类型。
 1. 打开uncOver下载地址：https://www.pgyer.com/qFYrTR
