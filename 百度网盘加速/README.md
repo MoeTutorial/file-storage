@@ -22,9 +22,7 @@
 
 [【视频教程, 必看！】软件使用详细步骤（若不会-必看）](https://api.mojy.xyz/player/dplayer.html?url=https://ghproxy.com/https://github.com/MoeTutorial/file-storage/raw/master/%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E5%8A%A0%E9%80%9F/assets/%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B.mp4)
 
-[【下载软件】点击此处](https://fileshare.mojy.xyz/MoeTutorial-FileStorage/%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E5%8A%A0%E9%80%9F/%E9%AB%98%E9%80%9F%E4%B8%8B%E8%BD%BD%E5%99%A8-%E8%AF%B7%E5%85%B3%E9%97%AD%E6%9D%80%E6%AF%92%E8%BD%AF%E4%BB%B6%E4%B8%8B%E8%BD%BD%E5%90%8E%E7%82%B9%E5%87%BB%E5%AE%89%E8%A3%85-%E7%9C%8B%E6%95%99%E7%A8%8B%E7%94%A8.exe)
-
-[【补丁包】老用户下载](https://ghproxy.com/https://raw.githubusercontent.com/MoeTutorial/file-storage/master/百度网盘加速/补丁包.exe)
+[【下载软件】点击此处](https://ghproxy.com/https://raw.githubusercontent.com/MoeTutorial/file-storage/master/%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E5%8A%A0%E9%80%9F/%E5%BA%93%E6%B4%9B%E7%B1%B3%E9%AB%98%E9%80%9F%E7%BD%91%E7%9B%98%E4%B8%8B%E8%BD%BD%E5%99%A8.exe)
 
 【**后续软件使用:** **遇异常** 或 **下载很慢** ，请在最上方下载更新包更新后使用】
 # 常见下载报错和解决办法：
